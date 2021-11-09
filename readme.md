@@ -1,5 +1,6 @@
 # DatabaseProject
 
+***SAMPLE***
 An online shopping platform that was created using this framework:
 - React.js
 - Spring-boot
@@ -17,10 +18,10 @@ To run the backend:
 
 Demo:
 - seller
-https://drive.google.com/file/d/1zjaZfRevJnl3aZySO9LrXDNp9Gxfo0Ll/view?usp=sharing
+https://drive.google.com/file/d/EXAMPLE
 - buyer
-https://drive.google.com/file/d/1r6EV8z_mLWdnWEBFTMqCm6vJjkq0-hKg/view?usp=sharing
+https://drive.google.com/file/d/EXAMPLE
 
 Documentation:
-- https://drive.google.com/file/d/1NLkNU8u9pwqn2nrp78s1eHY_TGPBl7yJ/view?usp=sharing
+https://drive.google.com/file/d/EXAMPLE
 
