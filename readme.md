@@ -1,6 +1,7 @@
 # DatabaseProject
 
 ***SAMPLE***
+
 An online shopping platform that was created using this framework:
 - React.js
 - Spring-boot
